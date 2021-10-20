@@ -1,0 +1,14 @@
+//
+//  JSDPrefixHeader.pch
+//  JSDMixTools
+//
+//  Created by 假设敌 on 2021/9/13.
+//  Copyright © 2021 Jiashedi. All rights reserved.
+//
+
+#ifndef JSDPrefixHeader_pch
+#define JSDPrefixHeader_pch
+
+#import "JSDTools.h"
+
+#endif /* JSDPrefixHeader_pch */
